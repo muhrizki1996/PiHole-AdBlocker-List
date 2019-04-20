@@ -6,35 +6,33 @@
 #
 # last updated: 2019/04/20
 
-127.0.0.1       localhost
-255.255.255.255 broadcasthost
-::1             localhost
-fe80::1%lo0     localhost
-
 # white list
-white ad-api-v01.uliza.jp
-white ad.dmm.com
-white app-adforce.jp
-white imgstat.ameba.jp
-white lh3.googleusercontent.com
-white rd.rakuten.co.jp
-white scontent.xx.fbcdn.net
-white setting.adzcore.com
-white static.xx.fbcdn.net
-white ws.tapjoyads.com
-white www.googleadservices.com
-white www.google-analytics.com
-white s0.2mdn.net
-white pubads.g.doubleclick.net
-white r.r10s.jp
-white web-jp.ad-v.jp
-white s.yimg.jp
-white ssl.google-analytics.com
-white pagead2.googlesyndication.com
-white clickserve.dartsearch.net
-white ad.doubleclick.net
-white api.r10s.jp
-white c.kakaku.com
+white thepiratebay.org
+white www.thepiratebay.org
+
+127.0.0.1 ec1.flixcdn.com
+
+# move from white list to block
+127.0.0.1 ad-api-v01.uliza.jp
+127.0.0.1 ad.dmm.com
+127.0.0.1 app-adforce.jp
+127.0.0.1 imgstat.ameba.jp
+127.0.0.1 rd.rakuten.co.jp
+127.0.0.1 setting.adzcore.com
+127.0.0.1 ws.tapjoyads.com
+127.0.0.1 www.googleadservices.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 s0.2mdn.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 r.r10s.jp
+127.0.0.1 web-jp.ad-v.jp
+127.0.0.1 s.yimg.jp
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 clickserve.dartsearch.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 api.r10s.jp
+127.0.0.1 c.kakaku.com
 
 # 0076.pics
 127.0.0.1 p9kzz.stream.0076.pics
@@ -2323,9 +2321,6 @@ white c.kakaku.com
 
 # fancrew.jp
 127.0.0.1 fancrew.jp
-
-# fbcdn.net
-127.0.0.1 scontent-nrt1-1.xx.fbcdn.net
 
 # fc2.com
 127.0.0.1 29730396.ranking.fc2.com
