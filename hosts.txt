@@ -1982,8 +1982,6 @@ white www.thepiratebay.org
 0.0.0.0 wtsdc.worldnow.com #[WebTrends]
 0.0.0.0 ads.worthplaying.com
 0.0.0.0 beacon.thred.woven.com
-0.0.0.0 pixel.wp.com
-0.0.0.0 stats.wp.com
 0.0.0.0 adsearch.wp.pl
 0.0.0.0 adv.wp.pl
 0.0.0.0 badv.wp.pl
@@ -15216,9 +15214,6 @@ white www.thepiratebay.org
 
 # bongacams.com
 127.0.0.1 bongacams.com
-
-# bootstrapcdn.com
-127.0.0.1 netdna.bootstrapcdn.com
 
 # brainer.jp
 127.0.0.1 ad.brainer.jp
