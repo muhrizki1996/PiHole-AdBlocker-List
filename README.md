@@ -12,3 +12,6 @@ License : Unknown<br><br>
 URL : http://winhelp2002.mvps.org/hosts.zip<br>
 Description : MVPS HOSTS<br>
 License : Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)<br><br>
+URL : https://tgc.cloud/downloads/hosts.txt<br>
+Description : 10ZiN Host Database (Full)<br>
+License : All rights reserved
